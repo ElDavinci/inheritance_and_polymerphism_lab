@@ -2,7 +2,9 @@
 
 lab6 cpcs203<br>
 Description:<br>
-![Cone Image](https://i.ibb.co/BytqLYp/Screenshot-20240510-152515.png)<br>
+
+![Cone Image](https://i.ibb.co/BytqLYp/Screenshot-20240510-152515.png)
+<br>
 As you can see, the Cone has circles on one side and to calculate its surface area and volume,
 we need first to get the area of its base. If we have a circle class already implemented, how we
 can implement the Cone class by applying the inheritance concept. Make sure to follow the
